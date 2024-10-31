@@ -1,5 +1,4 @@
 #include "App.h"
-#include "Prerequisites.h"
 
 int main()
 {
